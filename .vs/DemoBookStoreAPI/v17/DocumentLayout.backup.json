@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF45254-DA8B-4866-BB46-6CE9CA2EBBDA}|DemoBookStoreAPI\\DemoBookStoreAPI.csproj|c:\\users\\lenovo\\source\\repos\\demobookstoreapi\\demobookstoreapi\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF45254-DA8B-4866-BB46-6CE9CA2EBBDA}|DemoBookStoreAPI\\DemoBookStoreAPI.csproj|solutionrelative:demobookstoreapi\\controllers\\usersapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF45254-DA8B-4866-BB46-6CE9CA2EBBDA}|DemoBookStoreAPI\\DemoBookStoreAPI.csproj|c:\\users\\lenovo\\source\\repos\\demobookstoreapi\\demobookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BF45254-DA8B-4866-BB46-6CE9CA2EBBDA}|DemoBookStoreAPI\\DemoBookStoreAPI.csproj|solutionrelative:demobookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoBookStoreAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\appsettings.json",
+              "RelativeToolTip": "DemoBookStoreAPI\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T14:39:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\Controllers\\UsersApiController.cs",
+              "RelativeDocumentMoniker": "DemoBookStoreAPI\\Controllers\\UsersApiController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\Controllers\\UsersApiController.cs",
+              "RelativeToolTip": "DemoBookStoreAPI\\Controllers\\UsersApiController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:54:42.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

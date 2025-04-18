@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.sourcelink.json
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\bin\Debug\net8.0\DemoBookStoreAPI.Models.deps.json
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\bin\Debug\net8.0\DemoBookStoreAPI.Models.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\bin\Debug\net8.0\DemoBookStoreAPI.Models.dll
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\bin\Debug\net8.0\DemoBookStoreAPI.Models.pdb
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.dll
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\refint\DemoBookStoreAPI.Models.dll
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.pdb
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\DemoBookStoreAPI.Models.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DemoBookStoreAPI\DemoBookStoreAPI.Models\obj\Debug\net8.0\ref\DemoBookStoreAPI.Models.dll
