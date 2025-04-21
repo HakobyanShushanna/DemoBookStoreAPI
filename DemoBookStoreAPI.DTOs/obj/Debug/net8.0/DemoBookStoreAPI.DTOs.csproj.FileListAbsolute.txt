@@ -1,0 +1,12 @@
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/bin/Debug/net8.0/DemoBookStoreAPI.DTOs.deps.json
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/bin/Debug/net8.0/DemoBookStoreAPI.DTOs.dll
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/bin/Debug/net8.0/DemoBookStoreAPI.DTOs.pdb
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/DemoBookStoreAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/DemoBookStoreAPI.DTOs.AssemblyInfoInputs.cache
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/DemoBookStoreAPI.DTOs.AssemblyInfo.cs
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/DemoBookStoreAPI.DTOs.csproj.CoreCompileInputs.cache
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/DemoBookStoreAPI.DTOs.sourcelink.json
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/DemoBookStoreAPI.DTOs.dll
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/refint/DemoBookStoreAPI.DTOs.dll
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/DemoBookStoreAPI.DTOs.pdb
+/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/Debug/net8.0/ref/DemoBookStoreAPI.DTOs.dll

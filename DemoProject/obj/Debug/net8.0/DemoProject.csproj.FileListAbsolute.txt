@@ -1,0 +1,12 @@
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/bin/Debug/net8.0/DemoProject.deps.json
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/bin/Debug/net8.0/DemoProject.dll
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/bin/Debug/net8.0/DemoProject.pdb
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/DemoProject.AssemblyInfoInputs.cache
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/DemoProject.AssemblyInfo.cs
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/DemoProject.csproj.CoreCompileInputs.cache
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/DemoProject.sourcelink.json
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/DemoProject.dll
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/refint/DemoProject.dll
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/DemoProject.pdb
+/home/redcup/source/repos/DemoBookStoreAPI/DemoProject/obj/Debug/net8.0/ref/DemoProject.dll

@@ -4,7 +4,7 @@
     {
         public List<ReviewModel> Reviews { get; set; } = new List<ReviewModel>();
         public List<OrderModel> Orders { get; set; } = new List<OrderModel>();
-        public int Age { get; set; }
+        public DateTimeOffset DoB { get; set; }
         public string Address { get; set; }
         public List<PollModel> Voted { get; set; } = new List<PollModel>();
         public List<PollModel> FundedPolls { get; set; } = new List<PollModel>();

@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\DemoBookStoreAPI.csproj": {}
+    "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI/DemoBookStoreAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\BookShop1\\BookShop.DTOs\\DemoBookStoreAPI.DTOs.csproj": {
+    "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/DemoBookStoreAPI.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\BookShop1\\BookShop.DTOs\\DemoBookStoreAPI.DTOs.csproj",
+        "projectUniqueName": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/DemoBookStoreAPI.DTOs.csproj",
         "projectName": "DemoBookStoreAPI.DTOs",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BookShop1\\BookShop.DTOs\\DemoBookStoreAPI.DTOs.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\BookShop1\\BookShop.DTOs\\obj\\",
+        "projectPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/DemoBookStoreAPI.DTOs.csproj",
+        "packagesPath": "/home/redcup/.nuget/packages/",
+        "outputPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/redcup/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,33 +53,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI.Models\\DemoBookStoreAPI.Models.csproj": {
+    "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.Models/DemoBookStoreAPI.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI.Models\\DemoBookStoreAPI.Models.csproj",
+        "projectUniqueName": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.Models/DemoBookStoreAPI.Models.csproj",
         "projectName": "DemoBookStoreAPI.Models",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI.Models\\DemoBookStoreAPI.Models.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI.Models\\obj\\",
+        "projectPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.Models/DemoBookStoreAPI.Models.csproj",
+        "packagesPath": "/home/redcup/.nuget/packages/",
+        "outputPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.Models/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/redcup/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,18 +85,16 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.15, )"
@@ -148,44 +126,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\DemoBookStoreAPI.csproj": {
+    "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI/DemoBookStoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\DemoBookStoreAPI.csproj",
+        "projectUniqueName": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI/DemoBookStoreAPI.csproj",
         "projectName": "DemoBookStoreAPI",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\DemoBookStoreAPI.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI\\obj\\",
+        "projectPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI/DemoBookStoreAPI.csproj",
+        "packagesPath": "/home/redcup/.nuget/packages/",
+        "outputPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/redcup/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\BookShop1\\BookShop.DTOs\\DemoBookStoreAPI.DTOs.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BookShop1\\BookShop.DTOs\\DemoBookStoreAPI.DTOs.csproj"
+              "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/DemoBookStoreAPI.DTOs.csproj": {
+                "projectPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.DTOs/DemoBookStoreAPI.DTOs.csproj"
               },
-              "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI.Models\\DemoBookStoreAPI.Models.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\DemoBookStoreAPI\\DemoBookStoreAPI.Models\\DemoBookStoreAPI.Models.csproj"
+              "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.Models/DemoBookStoreAPI.Models.csproj": {
+                "projectPath": "/home/redcup/source/repos/DemoBookStoreAPI/DemoBookStoreAPI.Models/DemoBookStoreAPI.Models.csproj"
               }
             }
           }
@@ -194,13 +165,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -234,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
