@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BookShop1\BookShop.DTOs\DemoBookStoreAPI.DTOs.csproj" />
+    <ProjectReference Include="..\DemoBookStoreAPI.DTOs\DemoBookStoreAPI.DTOs.csproj" />
     <ProjectReference Include="..\DemoBookStoreAPI.Models\DemoBookStoreAPI.Models.csproj" />
   </ItemGroup>
 

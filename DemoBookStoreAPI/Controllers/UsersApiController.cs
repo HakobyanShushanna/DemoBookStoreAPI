@@ -40,7 +40,7 @@ namespace DemoBookStoreAPI.Controllers
                 FirstName = userRegisterDto.FirstName,
                 LastName = userRegisterDto.LastName,
                 Address = userRegisterDto.Address,
-                Age = userRegisterDto.Age,
+                DoB = userRegisterDto.DoB,
                 NormalizedEmail = _userManager.NormalizeEmail(userRegisterDto.Email),
                 NormalizedUserName = _userManager.NormalizeName(userRegisterDto.Email.Split('@')[0]),
             };
